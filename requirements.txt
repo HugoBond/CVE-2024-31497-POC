@@ -1,0 +1,7 @@
+fpylll
+multiprocessing_logging
+cython
+numpy
+g6k
+pycryptodome
+ecdsa
